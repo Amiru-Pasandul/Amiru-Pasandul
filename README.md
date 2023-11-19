@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Amiru-Pasandul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Amiru-Pasandul/Amiru-Pasandul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 The Founder of **Litec Software Company**
+- 🌱 The Founder of **Litec (PVT) LTD**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
